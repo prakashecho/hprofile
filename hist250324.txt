@@ -1,0 +1,498 @@
+    1  pwd
+    2  ;s
+    3  ls
+    4  c
+    5  alias c='clear'
+    6  c
+    7  c
+    8  ls
+    9  pwd
+   10  ssh -i aws1.pem ec2-user@35.173.200.186
+   11  ssh -i aws1.pem ec2-user@35.173.200.186
+   12  ssh -i aws1.pem ec2-user@54.84.200.151
+   13  ssh -i aws1.pem ec2-user@35.171.157.34
+   14  ssh -i aws1.pem ec2-user@35.171.157.34
+   15  ssh -i aws1.pem ec2-user@35.171.157.34
+   16  ssh -i aws1.pem ec2-user@35.171.157.34
+   17  dcfdf
+   18  ls
+   19  ssh -i aws1.pem ec2-user@107.23.250.251
+   20  ssh -i aws1.pem ec2-user@34.203.190.239
+   21  ssh -i aws1.pem ec2-user@18.234.240.100
+   22  asd
+   23  c
+   24  clear
+   25  ls
+   26  c
+   27  ssh -i aws1.pem ubuntu@44.202.237.95
+   28  ssh -i aws1.pem@44.201.255.167
+   29  ssh -i aws1.pem ec2-user@44.201.255.167
+   30  ssh -i aws1.pem ec2-user@44.201.255.167
+   31  ssh -i aws1.pem ec2-user@44.201.255.167
+   32  ssh -i aws1.pem ec2-user@44.201.255.167
+   33  ssh -i aws1.pem ec2-user@52.201.232.203
+   34  c
+   35  clear
+   36  alias c='clear'
+   37  ls
+   38  c
+   39  vi .bashrc
+   40  ssh -i aws1.pem ec2-user@52.201.232.203
+   41  ssh -i aws1.pem ec2-user@52.201.232.203
+   42  c
+   43  ssh -i aws1.pem ubuntu@35.168.1.28
+   44  ssh -i aws1.pem ubuntu@35.168.1.28
+   45  ssh -i aws1.pem ubuntu@35.168.1.28
+   46  ssh -i aws1.pem ubuntu@35.168.1.28
+   47  ssh -i aws1.pem ubuntu@35.168.1.28
+   48  ssh -i aws1.pem ubuntu@35.168.1.28
+   49  ssh -i aws1.pem ubuntu@35.168.1.28
+   50  ssh -i aws1.pem ubuntu@35.168.1.28
+   51  ssh -i aws1.pem ubuntu@35.168.1.28
+   52  c
+   53  ls
+   54  clear
+   55  ssh -i aws1.pem ubuntu@3.95.160.43
+   56  ssh -i aws1.pem ubuntu@3.95.160.43
+   57  c
+   58  ssh -i aws1.pem ubuntu@52.91.190.188
+   59  ssh -i aws1.pem ec2-user@52.91.190.188
+   60  ssh -i aws1.pem ec2-user@18.204.219.141
+   61  c
+   62  clear
+   63  ls
+   64  c
+   65  clear
+   66  ls
+   67  c
+   68  ls -a
+   69  clear
+   70  ssh -i aws1.pem ubuntu@35.175.148.88
+   71  ssh -i aws1.pem ubuntu@35.175.148.88
+   72  ssh -i aws1.pem ubuntu@35.175.148.88
+   73  ssh -i aws1.pem ec2-user@35.175.148.88
+   74  ssh -i aws1.pem ec2-user@35.175.148.88
+   75  ssh -i aws1.pem ec2-user@35.175.148.88
+   76  c
+   77  ssh -i aws1.pem ec2-user@35.175.148.88
+   78  ssh -i aws1.pem ubuntu@34.229.94.189
+   79  ssh -i aws1.pem ubuntu@54.163.156.33
+   80  ssh -i aws1.pem ubuntu@54.163.156.33
+   81  ssh -i aws1.pem ubuntu@54.163.156.33
+   82  ssh -i aws1.pem ubuntu@54.163.156.33
+   83  ssh -i aws1.pem ubuntu@18.233.225.43
+   84  ssh -i aws1.pem ubuntu@18.233.225.43
+   85  ssh -i aws1.pem ubuntu@18.233.225.43
+   86  ssh -i aws1.pem ubuntu@54.82.0.38
+   87  ssh -i aws1.pem ubuntu@54.82.0.38
+   88  ssh -i aws1.pem ubuntu@54.82.0.38
+   89  ssh -i aws1.pem ubuntu@54.208.70.193
+   90  ssh -i aws1.pem ubuntu@54.208.70.193
+   91  ssh -i aws1.pem ubuntu@54.211.175.47
+   92  ssh -i aws1.pem ubuntu@54.165.103.115
+   93  ssh -i aws1.pem ubuntu@54.165.103.115
+   94  ssh -i aws1.pem ubuntu@54.165.103.115
+   95  ssh -i aws1.pem ubuntu@54.87.248.188
+   96  ssh -i aws1.pem ubuntu@54.162.81.63
+   97  ssh -i aws1.pem ubuntu@54.162.81.63
+   98  c
+   99  clear
+  100  ssh -i aws1.pem ubuntu@54.226.62.65
+  101  ssh -i aws1.pem ubuntu@54.226.62.65
+  102  ssh -i aws1.pem ubuntu@18.212.103.151
+  103  ssh -i aws1.pem ubuntu@18.212.103.151
+  104  ssh -i aws1.pem ubuntu@54.225.34.81
+  105  ssh -i aws1.pem ubuntu@54.225.34.81
+  106  ssh -i aws1.pem ubuntu@52.90.67.217
+  107  ssh -i aws1.pem ubuntu@3.88.148.192
+  108  ssh -i aws1.pem ubuntu@3.88.148.192
+  109  ssh -i aws1.pem ubuntu@3.88.148.192
+  110  ssh -i aws1.pem ubuntu@3.88.148.192
+  111  ssh -i aws1.pem ubuntu@35.175.209.149
+  112  ssh -i aws1.pem ubuntu@35.175.209.149
+  113  ssh -i aws1.pem ubuntu@35.175.209.149
+  114  c
+  115  clear
+  116  ls
+  117  c
+  118  ssh -i aws1.pem ubuntu@35.175.209.149
+  119  ssh -i aws1.pem ubuntu@54.205.195.40
+  120  ssh -i aws1.pem ubuntu@54.159.82.227
+  121  ssh -i aws1.pem 54.89.127.252
+  122  ssh -i aws1.pem ubuntu@54.89.127.252
+  123  ssh -i aws1.pem ubuntu@54.89.127.252
+  124  ssh -i aws1.pem ubuntu@54.89.127.252
+  125  ssh -i aws1.pem ubuntu@54.89.127.252
+  126  vi f1
+  127  chmod +x f1
+  128  ls
+  129  ./f1
+  130  clear
+  131  alias c='clear
+  132  ;
+  133  \
+  134  alias c='clear'
+  135  vi .bashrc
+  136  vi .bash_history 
+  137  d
+  138  c
+  139  mkdir linux
+  140  mkdir linuz
+  141  cd linuz
+  142  c
+  143  vi .bashrc
+  144  lsb_release -a
+  145  cat /etc/os-release
+  146  cat /etc/issue
+  147  hostnamectl
+  148  clear
+  149  alias c='clear'
+  150  c
+  151  uname -a
+  152  uname -a
+  153  vi fileexits
+  154  chmod +x fileexits 
+  155  ./fileexits 
+  156  pwd
+  157  mkdir prakash
+  158  vi fileexits 
+  159  mkdir prakash
+  160  ./fileexits 
+  161  clear
+  162  vi fileexits 
+  163  ls
+  164  vi prakas
+  165  ;s
+  166  ls
+  167  clear
+  168  vi frename
+  169  chmod +x frename 
+  170  ls
+  171  ./frename 
+  172  ls
+  173  $date
+  174  date
+  175  #!/bin/bash
+  176  # Variable Declaration
+  177  #PACKAGE="httpd wget unzip"
+  178  #SVC="httpd"
+  179  URL='https://www.tooplate.com/zip-templates/2098_health.zip'
+  180  ART_NAME='2098_health'
+  181  TEMPDIR="/tmp/webfiles"
+  182  yum --help &> /dev/null
+  183  if [ $? -eq 0 ]; then
+  184     PACKAGE="httpd wget unzip";    SVC="httpd";     echo "Running Setup on CentOS"
+  185     echo "########################################";    echo "Installing packages.";    echo "########################################";    sudo yum install $PACKAGE -y > /dev/null;    echo; 
+  186     echo "########################################";    echo "Start & Enable HTTPD Service";    echo "########################################";    sudo systemctl start $SVC;    sudo systemctl enable $SVC;    echo; 
+  187     echo "########################################";    echo "Starting Artifact Deployment";    echo "########################################";    mkdir -p $TEMPDIR;    cd $TEMPDIR;    echo;     wget $URL > /dev/null;    unzip $ART_NAME.zip > /dev/null;    sudo cp -r $ART_NAME/* /var/www/html/;    echo; 
+  188     echo "########################################";    echo "Restarting HTTPD service";    echo "########################################";    systemctl restart $SVC;    echo; 
+  189     echo "########################################";    echo "Removing Temporary Files";    echo "########################################";    rm -rf $TEMPDIR;    echo;     sudo systemctl status $SVC;    ls /var/www/html/;  else
+  190     PACKAGE="apache2 wget unzip";    SVC="apache2";     echo "Running Setup on CentOS"
+  191     echo "########################################";    echo "Installing packages.";    echo "########################################";    sudo apt update;    sudo apt install $PACKAGE -y > /dev/null;    echo; 
+  192     echo "########################################";    echo "Start & Enable HTTPD Service";    echo "########################################";    sudo systemctl start $SVC;    sudo systemctl enable $SVC;    echo; 
+  193     echo "########################################";    echo "Starting Artifact Deployment";    echo "########################################";    mkdir -p $TEMPDIR;    cd $TEMPDIR;    echo;     wget $URL > /dev/null;    unzip $ART_NAME.zip > /dev/null;    sudo cp -r $ART_NAME/* /var/www/html/;    echo; 
+  194     echo "########################################";    echo "Restarting HTTPD service";    echo "########################################";    systemctl restart $SVC;    echo; 
+  195     echo "########################################";    echo "Removing Temporary Files";    echo "########################################";    rm -rf $TEMPDIR;    echo;     sudo systemctl status $SVC;    ls /var/www/html/; fi 
+  196  ls
+  197  pwd
+  198  c
+  199  clear
+  200  chmod +400 on.pem 
+  201  ssh -i on.pem ubuntu@3.81.187.18
+  202  #!/bin/bash
+  203  # Installing Dependencies
+  204  echo "########################################"
+  205  echo "Installing packages."
+  206  echo "########################################"
+  207  sudo yum install wget unzip httpd -y > /dev/null
+  208  echo
+  209  # Start & Enable Service
+  210  echo "########################################"
+  211  echo "Start & Enable HTTPD Service"
+  212  echo "########################################"
+  213  sudo systemctl start httpd
+  214  sudo systemctl enable httpd
+  215  echo
+  216  # Creating Temp Directory
+  217  echo "########################################"
+  218  echo "Starting Artifact Deployment"
+  219  echo "########################################"
+  220  mkdir -p /tmp/webfiles
+  221  cd /tmp/webfiles
+  222  echo
+  223  wget https://www.tooplate.com/zip-templates/2098_health.zip > /dev/null
+  224  unzip 2098_health.zip > /dev/null
+  225  sudo cp -r 2098_health/* /var/www/html/
+  226  echo
+  227  # Bounce Service
+  228  echo "########################################"
+  229  echo "Restarting HTTPD service"
+  230  echo "########################################"
+  231  systemctl restart httpd
+  232  echo
+  233  # Clean Up
+  234  echo "########################################"
+  235  echo "Removing Temporary Files"
+  236  echo "########################################"
+  237  rm -rf /tmp/webfiles
+  238  echo
+  239  sudo systemctl status httpd
+  240  ls /var/www/html/
+  241  ssh -i on.pem ubuntu@3.81.187.18
+  242  ssh -i on.pem ubuntu@3.81.23.226
+  243  ssh -i on.pem ubuntu@3.81.23.226
+  244  ssh -i on.pem ubuntu@52.90.28.96
+  245  ssh -i on.pem ubuntu@54.161.113.190
+  246  ssh -i on.pem ubuntu@54.161.113.190
+  247  ssh -i on.pem ubuntu@54.161.113.190
+  248  ssh -i on.pem ubuntu@54.82.83.108
+  249  ssh -i on.pem ubuntu@54.82.83.108
+  250  ssh -i on.pem ubuntu@54.82.83.108
+  251  ssh -i on.pem ubuntu@54.82.83.108
+  252  ssh -i on.pem ubuntu@3.83.243.158
+  253  vi b
+  254  ls
+  255  chmod+xe
+  256  c
+  257  clear
+  258  chmod +x b
+  259  ./b
+  260  ip config
+  261  show ipaddr
+  262  ifconfig
+  263  hostname -I
+  264  wsl hostname -I
+  265  cat /etc/os-release
+  266  clear
+  267  git --version
+  268  mkdir prop
+  269  cd prop
+  270  ls
+  271  show
+  272  pwd
+  273  git clone https://github.com/etewiah/property_web_builder.git
+  274  apt update
+  275  yum update
+  276  clear
+  277  ls
+  278  cd property_web_builder/
+  279  ls
+  280  rails db:create
+  281  cd prop/
+  282  ls
+  283  vi a1
+  284  ls
+  285  chmod +x a1
+  286  clear
+  287  alias c='clear'
+  288  c
+  289  ./a1 
+  290  vi a2
+  291  vi a2
+  292  chmod +x a2
+  293  ./a2
+  294  ./a2 tom 12
+  295  bash a2 tom 12
+  296  c
+  297  vi a3
+  298  chmod +x a3
+  299  ./a3
+  300  cat a3
+  301  vi a3
+  302  ./a3
+  303  ./a3
+  304  c
+  305  vi add
+  306  chmod +x add
+  307  bash add
+  308  vi sub
+  309  chmod +x sub
+  310  ./sub
+  311  cat sub 
+  312  vi sub 
+  313  ./sub
+  314  c
+  315  cp sub multi
+  316  vi multi 
+  317  ./multi 
+  318  ls
+  319  cp add rdiv
+  320  vi rdiv
+  321  ./rdiv 
+  322  vi rdiv 
+  323  ./rdiv 
+  324  c
+  325  vi rand
+  326  chmod +x rand
+  327  ./rand 
+  328  ./rand 
+  329  ./rand 
+  330  ./rand 
+  331  ./rand 
+  332  c
+  333  ls
+  334  ssh -i on.pem ubuntu@52.91.110.133
+  335  ssh -i on.pem ubuntu@52.91.110.133
+  336  ssh -i on.pem ubuntu@52.91.110.133
+  337  ssh -i on.pem ubuntu@3.84.66.44
+  338  ssh -i on.pem ubuntu@3.84.66.44
+  339  ssh -i on.pem ubuntu@3.87.253.91
+  340  ssh -i on.pem ubuntu@3.87.253.91
+  341  ssh -i on.pem ubuntu@44.198.175.38
+  342  ssh -i on.pem ubuntu@44.198.175.38
+  343  ssh -i on.pem ubuntu@3.237.61.67
+  344  ssh -i on.pem ubuntu@3.237.68.90
+  345  ssh -i on.pem ubuntu@3.237.177.19
+  346  ssh -i on.pem ubuntu@3.237.177.19
+  347  ssh -i on.pem ubuntu@3.237.177.19
+  348  ssh -i on.pem ubuntu@3.237.177.19
+  349  ssh -i on.pem ubuntu@3.237.180.104
+  350  ssh -i on.pem ubuntu@3.238.0.204
+  351  ssh -i on.pem ubuntu@3.238.0.204
+  352  ssh -i on.pem ubuntu@54.174.252.111 
+  353  ssh -i on.pem ubuntu@3.226.236.13
+  354  ssh -i on.pem ubuntu@3.226.236.13
+  355  ssh -i on.pem ubuntu@44.223.98.118
+  356  ssh -i on.pem ubuntu@44.223.98.118
+  357  ssh -i on.pem ubuntu@44.200.211.195
+  358  ssh -i on.pem ubuntu@44.200.211.195
+  359  clear
+  360  ssh -i on.pem ubuntu@3.235.15.44
+  361  ssh -i on.pem ubuntu@3.235.15.44
+  362  ssh -i on.pem ubuntu@3.235.15.44
+  363  ssh -i on.pem ubuntu@3.235.247.117
+  364  ssh -i on.pem ubuntu@44.200.162.194
+  365  ssh -i on.pem ubuntu@54.197.118.79
+  366  ssh -i on.pem ubuntu@3.236.159.87
+  367  ssh -i on.pem ubuntu@44.213.148.39
+  368  ssh -i on.pem ubuntu@44.213.148.39
+  369  ssh -i on.pem ubuntu@44.213.148.39
+  370  ssh -i on.pem ubuntu@44.213.148.39
+  371  ssh -i on.pem ubuntu@44.213.148.39
+  372  ssh -i on.pem ubuntu@44.213.148.39
+  373  ssh -i on.pem ubuntu@3.231.26.225
+  374  ssh -i on.pem ubuntu@18.213.220.109
+  375  ssh -i on.pem ec2-user@44.203.39.226
+  376  clear
+  377  ssh -i on.pem ec2-user@3.80.181.147
+  378  clear
+  379  ssh -i on.pem ec2-user@44.203.39.226
+  380  ssh -i on.pem ec2-user@35.173.221.11
+  381  ssh -i on.pem ec2-user@54.89.61.28
+  382  ssh -i on.pem ec2-user@54.161.92.61
+  383  c
+  384  ssh -i on.pem ec2-user@54.210.186.71
+  385  ssh -i on.pem ubuntu@54.210.186.71
+  386  ssh -i on.pem ubuntu@3.94.21.241
+  387  ssh -i on.pem ubuntu@54.210.186.71
+  388  ssh -i on.pem ubuntu@3.239.46.174
+  389  ssh -i on.pem ubuntu@3.239.46.174
+  390  ssh -i on.pem ubuntu@34.205.33.155
+  391  ssh -i on.pem ubuntu@44.201.39.16
+  392  ssh -i on.pem ubuntu@44.201.39.16
+  393  scp-i /srv/www/wordpress on.pem ubuntu@44.201.39.16:/d
+  394  scp -i /srv/www/wordpress on.pem ubuntu@44.201.39.16:/d
+  395  scp  /srv/www/wordpress on.pem ubuntu@44.201.39.16:/d
+  396  scp   on.pem ubuntu@44.201.39.16  /srv/www/wordpress /d
+  397  scp   on.pem ubuntu@44.201.39.16  /srv/www/wordpress 
+  398  scp -i  on.pem ubuntu@44.201.39.16  /srv/www/wordpress 
+  399  scp -i  on.pem ubuntu@44.201.39.16:/srv/www/wordpress /d
+  400  ssh -i on.pem ubuntu@44.201.39.16
+  401  scp -i  on.pem ubuntu@44.201.39.16:/srv/www/wordpress /d
+  402  scp -i  on.pem ubuntu@44.201.39.16:/srv/www/prakash /d
+  403  scp -i  on.pem ubuntu@44.201.39.16:/srv/www/prakash /d -r
+  404  scp -i -r on.pem ubuntu@44.201.39.16:/srv/www/prakash /d 
+  405  scp  -r on.pem ubuntu@44.201.39.16:/srv/www/prakash /d 
+  406  scp  -r -i on.pem ubuntu@44.201.39.16:/srv/www/prakash /d 
+  407  mkdir prakash
+  408  ls
+  409  scp  -r -i on.pem ubuntu@44.201.39.16:/srv/www/prakash /d/prakash/ 
+  410  scp  -r -i on.pem ubuntu@44.201.39.16:/srv/www/prakash .
+  411  ls
+  412  cd prakash/
+  413  ls
+  414  ls -l
+  415  c
+  416  clear
+  417  ls -lt
+  418  ls
+  419  cd ..
+  420  ls
+  421  c
+  422  ls -ll
+  423  rm praksah
+  424  rm -r prakash
+  425  scp  -r -i on.pem ubuntu@44.201.39.16:/srv/www/prakash .
+  426  ls
+  427  ls -ll
+  428  c
+  429  ssh -i on.pem ubuntu@44.201.39.16
+  430  ls
+  431  rm -r prakash/
+  432  ls
+  433  scp  -r -i on.pem ubuntu@44.201.39.16:/srv/www/prakash .
+  434  ssh -i on.pem ubuntu@44.201.39.16
+  435  ssh -i on.pem ubuntu@72.44.40.166
+  436  ssh -i on.pem ubuntu@72.44.40.166
+  437  ssh -i on.pem ubuntu@3.235.160.170
+  438  ssh -i on.pem ubuntu@18.209.229.25
+  439  c
+  440  ssh -i on.pem ubuntu@3.218.145.142
+  441  ssh -i on.pem ubuntu@18.235.0.71
+  442  ssh -i on.pem ubuntu@44.213.113.246
+  443  ssh -i on.pem ubuntu@100.24.99.99
+  444  ssh -i on.pem ubuntu@18.208.200.214
+  445  ssh -i on.pem ubuntu@18.208.200.214
+  446  ssh -i on.pem ubuntu@3.219.240.214
+  447  ssh -i on.pem ubuntu@3.237.182.203
+  448  ssh -i on.pem ubuntu@3.237.182.203
+  449  d
+  450  ssh -i on.pem ubuntu@3.237.182.203
+  451  ssh -i on.pem ubuntu@3.227.9.109
+  452  ssh -i on.pem ubuntu@3.228.9.254
+  453  ssh -i on.pem ubuntu@3.228.9.254
+  454  ssh -i on.pem ubuntu@3.228.9.254
+  455  ssh -i on.pem ubuntu@44.195.36.10
+  456  ssh -i on.pem ubuntu@44.195.36.10
+  457  ssh -i on.pem ubuntu@34.200.214.134
+  458  cd
+  459  pd
+  460  pwd
+  461  cd ~/.ssh
+  462  pwd
+  463  ssh-keygen
+  464  clear
+  465  ls
+  466   cat gitaction.pub 
+  467  ssh -i ~/.ssh/gitaction -T git@github.com
+  468  clear
+  469  export GIT_SSH_COMMAND="ssh -i ~/.ssh/gitaction"
+  470  mkdir ~/Desktop/actions
+  471  ls
+  472  cd Desktop/actions
+  473  cd Desktop/actions/
+  474  cd Desktop/actions/
+  475  cd Desktop/actions/clear
+  476  cd ..
+  477  ls
+  478  cd Desktop/
+  479  ls
+  480  cd actions/
+  481  clear
+  482  git clone git@github.com:prakashecho/hprofile.git
+  483  ls
+  484  cd hprofile/
+  485  ls
+  486  clear
+  487  ls
+  488  unset GIT_SSH_COMMAND
+  489  git config core.sshCommand "ssh -i ~/.ssh/gitaction -F /dev/null"
+  490  clear
+  491  cat .git/config
+  492  clear
+  493  git config user.name gitaction
+  494  git config user.email prakashecho@gmail.com
+  495  cat .git/config
+  496  clear
+  497  history
+  498  history>hist250324.txt
