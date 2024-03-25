@@ -55,8 +55,8 @@ jobs:
          context: ./
 
    
-  BUILD_AND_PUBLISH:
-    needs: Testing
+  DEPLOY:
+    needs: BUILD_AND_PUBLISH
     runs-on: ubuntu-latest
     steps:
       - name: Code checkout
