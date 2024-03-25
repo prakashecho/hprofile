@@ -1,7 +1,7 @@
 name: Hprofile Actions
 on: workflow_dispatch
 env:
-  AWS_REGION: US-EAST-1
+  AWS_REGION: us-east-1
   ECR_REPOSITORY: actapp
   ECS_SERVICE: vproapp-act-svc
   ECS_CLUSTER: vpro-act
