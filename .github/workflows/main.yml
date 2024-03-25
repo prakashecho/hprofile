@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest 
     steps:
       - name: Testing workflow
-        run: "workflows!" 
+        run: echo "workflows!" 
         
     
